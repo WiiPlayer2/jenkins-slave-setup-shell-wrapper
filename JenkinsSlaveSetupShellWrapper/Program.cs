@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using System.IO;
-using CommandLine;
+
+////using CommandLine;
 
 namespace JenkinsSlaveSetupShellWrapper
 {

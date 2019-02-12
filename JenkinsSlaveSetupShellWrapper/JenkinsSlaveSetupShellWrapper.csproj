@@ -5,11 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <ApplicationIcon />
     <StartupObject />
+    <AssemblyName>sh</AssemblyName>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="CommandLineParser" Version="2.4.3" />
-  </ItemGroup>
 
   <ItemGroup>
     <None Update="testfile">
