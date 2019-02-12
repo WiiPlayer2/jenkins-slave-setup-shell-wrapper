@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JenkinsSlaveSetupShellWrapper": {
+      "commandName": "Project",
+      "commandLineArgs": "-xe "
+    }
+  }
+}
